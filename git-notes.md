@@ -70,3 +70,5 @@ mv ../log/timetest{$i}_* ../log/timetest0{$i}_*
 mv ../out/timetest{$i}_* ../out/timetest0{$i}_*  
 done 
 
+* do not track large data files  
+* only track files that need version control  

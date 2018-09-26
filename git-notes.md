@@ -72,3 +72,8 @@ done
 
 * do not track large data files  
 * only track files that need version control  
+
+### September 26, 2018
+
+* make sure to pull often!  
+* use git status to check and get directions  

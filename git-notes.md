@@ -19,7 +19,7 @@
 
 ### September 11, 2018
 
-Topic: Pipes and Filters + Loops
+**Topic: Pipes and Filters + Loops**
 
 Ctrl-C kills the process  
 Ctrl-D ends line  
@@ -33,11 +33,11 @@ Ctrl-Z to pause job
 
 ### September 17, 2018
 
-Topic: Less and man
+**Topic: Less and man**
 
 Put g ahead of commands to use GNU version of it
 
-Topic: Searching
+**Topic: Searching**
 
 Shell
   * \* = anything, any length
@@ -62,7 +62,7 @@ rm $(find ~ -name “.DS_Store”)
 
 ### September 23, 2018
 
-Exercise 1 solution
+**Exercise 1 solution**
 
 For i in {1..9}  
 do  

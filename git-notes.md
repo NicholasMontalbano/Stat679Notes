@@ -120,3 +120,5 @@ git clone git@github.com:UWMadison-computingtools-2018/zmays-snps.git
 ### October 18, 2018
 
 git branch exercise 
+ 
+Nick is a really cool and great guy.

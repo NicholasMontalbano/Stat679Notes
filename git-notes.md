@@ -120,11 +120,15 @@ git clone git@github.com:UWMadison-computingtools-2018/zmays-snps.git
 ### October 18, 2018
 
 git branch exercise 
-<<<<<<< HEAD
+
 
 Students are annoying who is this lady that is with Bill?s
 Sorry I was on the wrong branch this sucks a lot.
-=======
+
+
  
 Nick is a really cool and great guy.
->>>>>>> c5c4016e9e0694dbcd5e690d620ceaa8b6a271e0
+
+
+Well, that a while. 4:45
+

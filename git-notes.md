@@ -117,3 +117,6 @@ getting data from the web: wget
 
 git clone git@github.com:UWMadison-computingtools-2018/zmays-snps.git 
 
+### October 18, 2018
+
+git branch exercise 

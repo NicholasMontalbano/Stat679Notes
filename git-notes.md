@@ -77,3 +77,43 @@ done
 
 * make sure to pull often!  
 * use git status to check and get directions  
+
+### October 1, 2018
+
+* Make comments short  
+* Don't document mechanics  
+* Comment assumptions (i.e. assumes h<= 9)
+* Comment on variable name if it is shortened/ not obvious  
+
+Excercise: grep "ENSMUSG00000033793" Mus_musculus.GRCm38.75_chr1.gtf | cut -f 3 | sort | uniq  -c  
+
+Most important thing to know for sed:  
+sed s/pattern/replacement/ filename > newfile # do NOT redirect to input file!  
+
+Option to replace your input file:  
+sed -i s/pattern/replacement/ filename # for in-place replacement  
+
+Best to enclode 's/pattern/placement/'  
+- Unless there are variables inside  
+
+Keeps 3 things in memory (e.g. (chr[^:]+) is 1)
+* echo "chr12:74-431" | gsed -E 's/^(chr[^:]+):([0-9]+)-([0-9]+)/\1\t\2\t\3/'  
+*  1:2-3 replaced by 1 tab 2 tab 3  
+
+### October 3, 2018
+
+-o is or
+! is not
+-lt is less than
+$# is argument 
+
+### October 10, 2018
+
+awk is good for really long files, tabular data
+no $ for variables within awk
+getting data from the web: wget  
+
+### October 15, 2018
+
+git clone git@github.com:UWMadison-computingtools-2018/zmays-snps.git 
+

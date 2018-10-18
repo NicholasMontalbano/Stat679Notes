@@ -117,3 +117,5 @@ getting data from the web: wget
 
 git clone git@github.com:UWMadison-computingtools-2018/zmays-snps.git 
 
+Students are annoying who is this lady that is with Bill?s
+Sorry I was on the wrong branch this sucks a lot.
